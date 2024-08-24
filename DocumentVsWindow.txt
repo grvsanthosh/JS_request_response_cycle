@@ -1,0 +1,18 @@
+Window:
+
+1.Window represents a window/tab that contains DOM Document.
+2.Window represents the entire screen holding TABs, bookmarks and document.
+3.Window has entire control over the screen.
+4.The window object in JavaScript provides access to the browser's history, location, and other properties and methods allowing us to  	   interact with the browser window itself. 
+5.It contains information about the browser window, like the size, the document the window contains, and the window’s history.
+
+
+Document:
+
+1.Document is a property of a window, document points to the DOM that is loaded in the window.
+2.Document is an object which is part of the window.
+3.Document has control over the DOM 
+4.The document object represents the structure of the web page as a whole and provides access to the content of the page, as well as methods for manipulating that content.
+5.It contains information about the content of the page, like the URL, the title, the content, and the links.
+
+
